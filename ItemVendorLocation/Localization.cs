@@ -37,6 +37,13 @@ internal class Localization
                                                                                  }
                                                                              }
                                                                              """,
+                                   (ClientLanguage)5 or (ClientLanguage)7 => /*lang=json,strict*/ """
+                                                                             {
+                                                                                 "ContextMenuItem": {
+                                                                                     "message": "查找兌換位置"
+                                                                                 }
+                                                                             }
+                                                                             """,
                                    ClientLanguage.English or _ => /*lang=json,strict*/ """
                                                                                        {
                                                                                            "ContextMenuItem": {

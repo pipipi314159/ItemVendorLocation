@@ -1,8 +1,8 @@
 author: electr0sheep, Nuko
-name: Item Vendor Location
+name: Item Vendor Location (TW)
 punchline: Shows you where to buy vendor items
 description: Adds a context menu option for items that will show you where to find items you can buy off a vendor
-repo_url: https://github.com/electr0sheep/ItemVendorLocation
+repo_url: https://github.com/pipipi314159/ItemVendorLocation
 icon_url: https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png
 image_urls: [
   https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/ContextMenu.png
